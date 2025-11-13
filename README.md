@@ -1,4 +1,4 @@
-### Hey there <img src="./512.gif" alt="Hello Emoji" style="width: 28px"/>, I'm David Debow
+## Hey there <img src="./512.gif" alt="Hello Emoji" style="width: 28px"/>, I'm David Debow
 
 ---
 
